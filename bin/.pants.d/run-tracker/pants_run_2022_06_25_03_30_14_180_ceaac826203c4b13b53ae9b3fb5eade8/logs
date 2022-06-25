@@ -1,0 +1,5 @@
+03:30:31.00 [INFO] Completed: Resolving constraints.txt
+03:30:31.71 [INFO] Completed: Extracting 1 requirement to build pex_binary.pex from repository.pex: bottle
+03:30:32.36 [INFO] Completed: Building local_dists.pex
+03:31:34.14 [INFO] Extending leases
+03:31:34.15 [INFO] Done extending leases

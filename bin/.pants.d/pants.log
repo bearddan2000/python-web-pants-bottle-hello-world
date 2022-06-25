@@ -1,0 +1,4 @@
+03:30:13.76 [INFO] handling request: `--pants-bin-name=./pants --pants-version=2.8.0 run cli/main.py`
+03:31:34.14 [INFO] Extending leases
+03:31:34.15 [INFO] Done extending leases
+03:32:00.26 [INFO] request completed: `--pants-bin-name=./pants --pants-version=2.8.0 run cli/main.py`
